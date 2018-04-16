@@ -1,6 +1,6 @@
 name 'golang'
-maintainer 'The Authors'
-maintainer_email 'you@example.com'
+maintainer 'Sophia Ehlen'
+maintainer_email 'ehlensophia@gmail.com'
 license 'All Rights Reserved'
 description 'Installs/Configures golang'
 long_description 'Installs/Configures golang'
