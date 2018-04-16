@@ -1,4 +1,7 @@
-# golang
+# golang Cookbook
 
-TODO: Enter the cookbook description here.
+Installs and configures golang
 
+
+## Supports
+- ubuntu
