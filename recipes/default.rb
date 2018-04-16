@@ -19,4 +19,5 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+include_recipe 'golang::user'
 include_recipe 'golang::go'
